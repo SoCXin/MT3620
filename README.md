@@ -24,6 +24,8 @@ ATMEL公司的AT89Cxx系列最早实现Flash ROM技术，基于Flash ROM的ISP/I
 
 https://github.com/mcuyun/N76E003.git
 
+---
+
 ### WCH CH552X
 
 国产高性价比 USB 8051单片机，具有很强的USB通信和模拟能力
@@ -32,6 +34,7 @@ https://github.com/mcuyun/N76E003.git
 
 https://github.com/mcuyun/CH552X.git
 
+---
 
 ### TI CC254X
 
@@ -41,7 +44,7 @@ CC254X工程仓库
 
 https://github.com/mcuyun/CC254X.git
 
-
+---
 
 ### TI CC2530
 
@@ -50,6 +53,18 @@ ZigBee SOC 8051单片机，ZigBee领域最有名的产品
 CC2530工程仓库
 
 https://github.com/mcuyun/CC2530.git
+
+---
+
+### 汇春 YS84
+
+http://www.yspringtech.com/
+
+几毛钱的单片机
+
+YS84工程仓库
+
+https://github.com/mcuyun/YS84.git
 
 ---
 
