@@ -3,7 +3,7 @@
 
 [![sites](docs/mcuyun.png)](http://www.mcuyun.com)
 
-### 简介
+## 简介
 
 8051是一种8位元的单芯片微控制器，属于MCS-51单芯片的一种，由英特尔公司于1981年制造，但不久就放弃对其进一步发展，实施了8051的技术开放政策。
 
@@ -16,14 +16,40 @@ ATMEL公司的AT89Cxx系列最早实现Flash ROM技术，基于Flash ROM的ISP/I
 
 ---
 
-### 新塘N76E003
+### 新塘 N76E003
 
-超高性价比8051单片机，具有秒杀同类产品的实力和可靠性。
-
+超高性价比8051单片机，具有秒杀同类产品的软硬实力和可靠性
 
 工程仓库
 
 https://github.com/mcuyun/N76E003.git
+
+### WCH CH552X
+
+国产高性价比 USB 8051单片机，具有很强的USB通信和模拟能力
+
+工程仓库
+
+https://github.com/mcuyun/CH552X.git
+
+
+### TI CC254X
+
+BLE SOC 8051单片机，很强大的蓝牙通信适配能力
+
+CC254X工程仓库
+
+https://github.com/mcuyun/CC254X.git
+
+
+
+### TI CC2530
+
+ZigBee SOC 8051单片机，ZigBee领域最有名的产品
+
+CC2530工程仓库
+
+https://github.com/mcuyun/CC2530.git
 
 ---
 
