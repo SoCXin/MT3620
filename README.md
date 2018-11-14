@@ -1,9 +1,14 @@
-﻿
-# 8051单片机
+﻿# [8051](https://github.com/mcuyun/8051) 
 
-[![sites](docs/mcuyun.png)](http://www.mcuyun.com)
+8051内核单片机
 
-## 简介
+[![sites](mcuyun/mcuyun.png)](http://www.mcuyun.com)
+
+#### 更多MCU：[mcuyun](https://github.com/mcuyun/whyme)可访问 www.mcuyun.com
+
+---
+
+## 背景
 
 8051是一种8位元的单芯片微控制器，属于MCS-51单芯片的一种，由英特尔公司于1981年制造，但不久就放弃对其进一步发展，实施了8051的技术开放政策。
 
@@ -13,10 +18,13 @@ ATMEL公司的AT89Cxx系列最早实现Flash ROM技术，基于Flash ROM的ISP/I
 
 内核化SoC的加速8051发展，MCS-51典型的体系结构以及极好的兼容性，让MCU不断扩展成不同领域的特色芯片SOC方案。
 
+---
+
+## 成员
 
 ---
 
-### 新塘 N76E003
+#### 新塘 N76E003
 
 超高性价比8051单片机，具有秒杀同类产品的软硬实力和可靠性
 
@@ -26,7 +34,7 @@ https://github.com/mcuyun/N76E003.git
 
 ---
 
-### WCH CH552X
+#### WCH CH552/CH554
 
 国产高性价比 USB 8051单片机，具有很强的USB通信和模拟能力
 
@@ -36,7 +44,7 @@ https://github.com/mcuyun/CH552X.git
 
 ---
 
-### TI CC254X
+#### TI CC2540/CC2541
 
 BLE SOC 8051单片机，很强大的蓝牙通信适配能力
 
@@ -46,7 +54,7 @@ https://github.com/mcuyun/CC254X.git
 
 ---
 
-### TI CC2530
+#### TI CC2530
 
 ZigBee SOC 8051单片机，ZigBee领域最有名的产品
 
@@ -56,7 +64,7 @@ https://github.com/mcuyun/CC2530.git
 
 ---
 
-### 汇春 YS84
+#### 汇春 YS84
 
 http://www.yspringtech.com/
 
@@ -68,5 +76,6 @@ https://github.com/mcuyun/YS84.git
 
 ---
 
+###  www.mcuyun.com   |    qitas@qitas.cn
 
 
