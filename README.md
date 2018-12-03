@@ -26,13 +26,14 @@ ATMEL公司的AT89Cxx系列最早实现Flash ROM技术，基于Flash ROM的ISP/I
 ## 组成
 
 
-#### 新塘 N76E003
+#### 新塘 
 
 超高性价比8051单片机，具有秒杀同类产品的软硬实力和可靠性
 
-工程仓库
+[N76E003](https://github.com/mcuyun/N76E003.git)
 
-https://github.com/mcuyun/N76E003.git
+
+
 
 ---
 
@@ -46,17 +47,11 @@ https://github.com/mcuyun/N76E003.git
 
 ---
 
-#### TI CC2540/CC2541
+#### TI
 
 BLE SOC 8051单片机，很强大的蓝牙通信适配能力
 
 [CC254X](https://github.com/mcuyun/CC254X.git)
-
-
-
----
-
-#### TI CC2530
 
 ZigBee SOC 8051单片机，ZigBee领域最有名的产品
 
