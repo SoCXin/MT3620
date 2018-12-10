@@ -25,37 +25,44 @@ ATMEL公司的AT89Cxx系列最早实现Flash ROM技术，基于Flash ROM的ISP/I
 
 ## 组成
 
+### [STC](https://github.com/mcuyun/STC)
 
-#### [Nuvoton](https://github.com/mcuyun/Nuvoton)
+深圳宏晶科技8051单片机，把简单、快捷、方便和廉价的下载程序的ISP技术作为核心竞争力，抗干扰能力确实不输于国外同类产品
+
+#### [STC89C](https://github.com/mcuyun/STC89C)
+
+
+### [Nuvoton](https://github.com/mcuyun/Nuvoton)
+
+台湾新塘,MCU领域的明星企业
+
+#### [N76E003](https://github.com/mcuyun/N76E003.git)
 
 超高性价比8051单片机，具有秒杀同类产品的软硬实力和可靠性
 
-[N76E003](https://github.com/mcuyun/N76E003.git)
-
-
-#### [WCH](https://github.com/mcuyun/WCH)
+### [WCH](https://github.com/mcuyun/WCH)
 
 国产高性价比 USB 8051单片机，具有很强的USB通信和模拟能力
 
-[CH552](https://github.com/mcuyun/CH552)
+#### [CH552](https://github.com/mcuyun/CH552)
 
 
 
-#### [TI](https://github.com/mcuyun/TI)
+### [TI](https://github.com/mcuyun/TI)
+
+TI高性能多功能代表
+
+#### [CC254X](https://github.com/mcuyun/CC254X)
+
+#### [CC2530](https://github.com/mcuyun/CC2530)
 
 8051 SOC基于8051增强内核，拥有很强的无线通信能力
 
-[CC254X](https://github.com/mcuyun/CC254X)
+### [yspring](https://github.com/mcuyun/yspring)
 
-[CC2530](https://github.com/mcuyun/CC2530)
+#### [YS84](https://github.com/mcuyun/YS84.git)
 
-
-
-#### [yspring](https://github.com/mcuyun/yspring)
-
-[YS84](https://github.com/mcuyun/YS84.git)
-
-
+更低的成本，触控领域低成本方案
 
 
 ---
