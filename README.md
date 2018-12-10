@@ -2,16 +2,17 @@
 
 [![sites](mcuyun/mcuyun.png)](http://www.mcuyun.com)
 
-8051内核单片机
+### [X86](https://github.com/mcuyun/X86)
+### [ARM](https://github.com/mcuyun/ARM)
+### [MIPS](https://github.com/mcuyun/MIPS)
+### [FPGA](https://github.com/mcuyun/FPGA)
+### [RISC-V](https://github.com/mcuyun/RISC-V)
 
-#### [MIPS](https://github.com/mcuyun/MIPS)
-#### [RISC-V](https://github.com/mcuyun/RISC-V)
-#### [Cortex](https://github.com/mcuyun/Cortex)
-#### 更多MCU：[mcuyun](https://github.com/mcuyun/whyme)
+#### [关于悠云](https://github.com/mcuyun/whyme)可访问 www.mcuyun.com
 
----
 
-## 简介
+## [简介](https://github.com/mcuyun/8051/wiki)
+
 
 8051是一种8位元的单芯片微控制器，属于MCS-51单芯片的一种，由英特尔公司于1981年制造，但不久就放弃对其进一步发展，实施了8051的技术开放政策。
 
@@ -21,51 +22,38 @@ ATMEL公司的AT89Cxx系列最早实现Flash ROM技术，基于Flash ROM的ISP/I
 
 内核化SoC的加速8051发展，MCS-51典型的体系结构以及极好的兼容性，让MCU不断扩展成不同领域的特色芯片SOC方案。
 
----
 
 ## 组成
 
 
-#### 新塘 
+#### [Nuvoton](https://github.com/mcuyun/Nuvoton)
 
 超高性价比8051单片机，具有秒杀同类产品的软硬实力和可靠性
 
 [N76E003](https://github.com/mcuyun/N76E003.git)
 
 
-
-
----
-
 #### [WCH](https://github.com/mcuyun/WCH)
-
 
 国产高性价比 USB 8051单片机，具有很强的USB通信和模拟能力
 
 [CH552](https://github.com/mcuyun/CH552)
 
 
----
 
-#### TI
+#### [TI](https://github.com/mcuyun/TI)
 
-BLE SOC 8051单片机，很强大的蓝牙通信适配能力
+8051 SOC基于8051增强内核，拥有很强的无线通信能力
 
-[CC254X](https://github.com/mcuyun/CC254X.git)
+[CC254X](https://github.com/mcuyun/CC254X)
 
-ZigBee SOC 8051单片机，ZigBee领域最有名的产品
-
-[CC2530](https://github.com/mcuyun/CC2530.git)
+[CC2530](https://github.com/mcuyun/CC2530)
 
 
 
----
+#### [yspring](https://github.com/mcuyun/yspring)
 
-#### [汇春](https://github.com/mcuyun/yspring)
-
-http://www.yspringtech.com/
-
-[汇春YS84](https://github.com/mcuyun/YS84.git)
+[YS84](https://github.com/mcuyun/YS84.git)
 
 
 
