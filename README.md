@@ -2,13 +2,13 @@
 
 [![sites](mcuyun/mcuyun.png)](http://www.mcuyun.com)
 
-### [X86](https://github.com/mcuyun/X86)
-### [ARM](https://github.com/mcuyun/ARM)
-### [MIPS](https://github.com/mcuyun/MIPS)
-### [FPGA](https://github.com/mcuyun/FPGA)
-### [RISC-V](https://github.com/mcuyun/RISC-V)
+更多内核架构
 
-#### [关于悠云](https://github.com/mcuyun/whyme)可访问 www.mcuyun.com
+#### [X86](https://github.com/mcuyun/X86)
+#### [ARM](https://github.com/mcuyun/ARM)
+#### [MIPS](https://github.com/mcuyun/MIPS)
+#### [FPGA](https://github.com/mcuyun/FPGA)
+#### [RISC-V](https://github.com/mcuyun/RISC-V)
 
 
 ## [简介](https://github.com/mcuyun/8051/wiki)
@@ -27,47 +27,26 @@ ATMEL公司的AT89Cxx系列最早实现Flash ROM技术，基于Flash ROM的ISP/I
 
 ### [STC](https://github.com/mcuyun/STC)
 
-深圳宏晶科技8051单片机，把简单、快捷、方便和廉价的下载程序的ISP技术作为核心竞争力，抗干扰能力确实不输于国外同类产品
-
-#### [STC89C](https://github.com/mcuyun/STC89C)
-
+深圳宏晶科技8051单片机
 
 ### [Nuvoton](https://github.com/mcuyun/Nuvoton)
 
-台湾新塘,MCU领域的明星企业
-
-#### [N76E003](https://github.com/mcuyun/N76E003.git)
-
-超高性价比8051单片机，具有秒杀同类产品的软硬实力和可靠性
+台湾新塘8051单片机
 
 ### [WCH](https://github.com/mcuyun/WCH)
 
-国产高性价比 USB 8051单片机，具有很强的USB通信和模拟能力
-
-#### [CH552](https://github.com/mcuyun/CH552)
-
-
+国产高性价比USB 8051单片机
 
 ### [TI](https://github.com/mcuyun/TI)
 
-TI高性能多功能代表
-
-#### [CC254X](https://github.com/mcuyun/CC254X)
-
-#### [CC2530](https://github.com/mcuyun/CC2530)
-
-8051 SOC基于8051增强内核，拥有很强的无线通信能力
+TI高性能多功能8051内核单片机
 
 ### [yspring](https://github.com/mcuyun/yspring)
 
-#### [YS84](https://github.com/mcuyun/YS84.git)
-
-更低的成本，触控领域低成本方案
-
+国产超低成本汇春单片机
 
 ---
 
-###  www.mcuyun.com   
-###  qitas@qitas.cn
-
-
+###  [悠云，为嵌入式](http://www.mcuyun.com)
+####  qitas@qitas.cn
+####  2019-1-4
