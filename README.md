@@ -2,6 +2,8 @@
 
 [![sites](SoC/SoC.png)](http://www.qitas.cn) 
 
+#### 归属：[MCS-51](https://github.com/sochub/MCS-51)
+
 ## [描述](https://github.com/sochub/AT89S/wiki) 
 
 ATMEL公司的AT89Cxx系列最早实现Flash ROM技术，基于Flash ROM的ISP/IAP技术，极大地改变了单片机应用系统的结构模式以及开发和运行条件。
