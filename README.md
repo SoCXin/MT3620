@@ -2,18 +2,18 @@
 
 [![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.SoC.Xin)
 
-* [MediaTek](https://www.mediatek.com/): [Cortex-A7/M4](https://github.com/SoCXin/Cortex)
-* [L7R7](https://github.com/SoCXin/Level): 880 MHz x 1.6 DMIPS/MHz (3.05 CoreMark/MHz)
+* [MediaTek](https://www.mediatek.com/): [Cortex-A7+2xM4+N9](https://github.com/SoCXin/Cortex)
+* [L7R7](https://github.com/SoCXin/Level): 500MHz + 2x200MHz + Andes N9
 
 ## [简介](https://github.com/SoCXin/MT3620/wiki)
 
 [MT3620](https://github.com/SoCXin/MT3620) tri-core MCU
 
-[![sites](docs/MT3620.png)](https://www.mediatek.com/products/homeNetworking/MT3620)
+[![sites](docs/MT3620.png)](https://www.mediatek.cn/products/AIoT/mt3620)
 
 ### 关键特性
 
-* 5p GbE Switch
+* MediaTek NeuroPilot-Micro为一款在MT3620 Cortex-M4上支持部署和高效运行ML模型的tinyML架构。
 
 
 #### 封装规格
